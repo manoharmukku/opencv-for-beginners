@@ -1,1 +1,1 @@
-This is the code used in the course "OpenCV for Beginners" at courses.learnopencv.com
+Code used in the course "OpenCV for Beginners" at courses.learnopencv.com
